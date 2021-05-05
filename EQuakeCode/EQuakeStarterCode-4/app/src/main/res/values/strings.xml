@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Earthquake Monitor</string>
+    <string name="student_id_s1903344">Student ID: S1903344</string>
+    <string name="fetch_data">Fetch data</string>
+    <string name="earthquake_information">Earthquake Information</string>
+    <string name="data_from_the_british_geological_survey_records_nerc_2019">Data from the British Geological Survey records ©NERC 2019</string>
+    <string name="filter_earthquakes">Filter Earthquakes</string>
+    <string name="by_date">By date</string>
+    <string name="specify_date">Specify date</string>
+    <string name="by_date_range">By date range</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="apply">Apply</string>
+    <string name="result">Result</string>
+    <string name="map_view">Map View</string>
+    <!--    https://www.earthquakeauthority.com/Blog/2020/Earthquake-Measurements-Magnitude-vs-Intensity-->
+</resources>
